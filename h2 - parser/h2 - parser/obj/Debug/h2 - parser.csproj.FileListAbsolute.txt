@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\obj\Debug\h2 - parser.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\obj\Debug\h2 - parser.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\obj\Debug\h2___parser.Form1.resources
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\obj\Debug\h2___parser.Properties.Resources.resources
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\obj\Debug\h2 - parser.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\obj\Debug\h2 - parser.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\bin\Debug\h2 - parser.exe.config
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\bin\Debug\h2 - parser.exe
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\bin\Debug\h2 - parser.pdb
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\obj\Debug\h2 - parser.exe
+\\Mac\Home\Desktop\h2 - parser\h2 - parser\obj\Debug\h2 - parser.pdb
